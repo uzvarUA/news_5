@@ -13,7 +13,7 @@ ChoiceMenuBP/
 **Manifest.json**
 ```json
 {
-  "format_version": 2,
+  "format_version": 1,
   "header": {
     "name": "Choice Menu BP",
     "description": "Меню з кнопками Так/Ні",
