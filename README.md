@@ -2,8 +2,8 @@
 ChoiceMenuBP/
 > manifest.json
 > functions/
->> start.mcfunction
->> choice_form.mcfunction
->> on_yes.mcfunction
+>> start.mcfunction <br>
+>> choice_form.mcfunction <br>
+>> on_yes.mcfunction <br>
 >> on_no.mcfunction <br>
 
